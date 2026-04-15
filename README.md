@@ -17,4 +17,4 @@ Unity 6 project integrating **MetaMask Embedded Wallets / Web3Auth** for wallet 
 
 ## License
 
-See [LICENSE](LICENSE) if present in this repository.
+See [LICENSE](LICENSE).
