@@ -1,0 +1,9 @@
+{
+  "name": "x402-digest-verify",
+  "private": true,
+  "type": "module",
+  "description": "Verify Unity x402 EIP-712 digest against viem",
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}

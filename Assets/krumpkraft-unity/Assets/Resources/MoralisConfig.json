@@ -1,0 +1,5 @@
+{
+  "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjU4MjhhM2UwLWU2YmMtNDBhNC1iY2JiLTYyYzc0MDhhZTVkZSIsIm9yZ0lkIjoiNTAyMDk1IiwidXNlcklkIjoiNTE2NjMxIiwidHlwZUlkIjoiYjAxMTVjNGYtOWEzNS00MDMyLWI3YzYtY2JkYjQ1NTM5MWI1IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3NzE5MjQyMjAsImV4cCI6NDkyNzY4NDIyMH0.-gcVG0ce_iOOoh89HJXyr487DVXLZP__Bi_DaqJjRxk",
+  "baseUrl": "https://deep-index.moralis.io/api",
+  "version": "v2"
+}

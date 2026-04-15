@@ -1,0 +1,12 @@
+{
+  "chainName": "Arc Testnet",
+  "chainId": 5042002,
+  "rpcUrl": "https://rpc.testnet.arc.network",
+  "blockExplorer": "https://testnet.arcscan.app",
+  "nativeCurrencySymbol": "USDC",
+  "chainType": 1,
+  "hostChainId": 5042002,
+  "hostRpcUrl": "https://rpc.testnet.arc.network",
+  "hostBlockExplorer": "https://testnet.arcscan.app",
+  "krumpKraftApiBaseUrl": "http://localhost:3099"
+}

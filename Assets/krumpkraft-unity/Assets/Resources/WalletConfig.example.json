@@ -1,0 +1,11 @@
+{
+  "usePrivateKey": false,
+  "privateKey": "",
+  "address": "",
+  "web3AuthClientId": "YOUR_WEB3AUTH_CLIENT_ID_FROM_DASHBOARD",
+  "web3AuthNetwork": "SAPPHIRE_DEVNET",
+  "web3AuthRedirectUrl": "",
+  "web3AuthVerifier": "YOUR_AUTH_CONNECTION_ID",
+  "googleClientId": "YOUR_GOOGLE_OAUTH_WEB_CLIENT_ID.apps.googleusercontent.com",
+  "defaultGoogleAuthConnectionId": ""
+}

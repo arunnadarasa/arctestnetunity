@@ -1,0 +1,30 @@
+# Optional: uncomment to avoid committing secrets (recommended if you put keys/Client IDs here)
+# Assets/Resources/WalletConfig.json
+# Assets/Resources/MoralisConfig.json
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
